@@ -1,0 +1,31 @@
+_repo: Home-education-b-Home-Education-Series-Vol-1-of-6_71087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Charlotte M. (Charlotte Maria)
+    alias: Mason, Charlotte Maria Shaw
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '53773'
+    url: http://www.gutenberg.org/2009/agents/53773
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mason
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71087'
+language: en
+pgterms:marc904: https://archive.org/details/homeeducationser01masouoft
+pgterms:marc905: 20210921113004mason
+pgterms:marc906: '1906'
+pgterms:marc907: UK
+production_note: Carol Brown, Tim Lindell, Turgut Dincer and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive).
+publication_note: '  $aUK :$bKegan Paul, Trench, Trübner, & Co., Ltd., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Home education : $b Home Education Series (Vol. 1 of 6)'
+url: http://www.gutenberg.org/ebooks/71087
