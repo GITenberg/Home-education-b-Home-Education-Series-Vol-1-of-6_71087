@@ -1,5 +1,8 @@
 _repo: Home-education-b-Home-Education-Series-Vol-1-of-6_71087
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71087-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, Charlotte M. (Charlotte Maria)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53773
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71087#Home-education-b-Home-Education-Series-Vol-1-of-6
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71087'
